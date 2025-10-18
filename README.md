@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello!! This is Dhivyesh | student@psgitech | creative and enthusiastic developer
 
 <!--
 **dhivyeshk23/dhivyeshk23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
